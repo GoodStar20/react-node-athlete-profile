@@ -50,3 +50,9 @@ $ yarn
 ```bash
 $ yarn dev
 ```
+![Screen Shot 2022-12-28 at 11 56 02 AM](https://user-images.githubusercontent.com/39380399/209846614-1cd59678-0555-46fd-b9b4-e267aef16136.png)
+![Screen Shot 2022-12-28 at 11 56 43 AM](https://user-images.githubusercontent.com/39380399/209846637-d36bac5f-e40d-43e3-b3c6-863f5fe7d92a.png)
+![Screen Shot 2022-12-28 at 11 57 11 AM](https://user-images.githubusercontent.com/39380399/209846645-819679ca-0979-4c6e-a402-29ac979d6027.png)
+![Screen Shot 2022-12-28 at 11 57 19 AM](https://user-images.githubusercontent.com/39380399/209846653-87793184-2dd9-471f-a725-0b0a37b312c6.png)
+
+
