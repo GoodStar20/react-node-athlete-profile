@@ -48,6 +48,7 @@ $ yarn
 ### Run project
 
 ```bash
+$ cd react-node-athlete-profile
 $ yarn dev
 ```
 ![Screen Shot 2022-12-28 at 11 56 02 AM](https://user-images.githubusercontent.com/39380399/209846614-1cd59678-0555-46fd-b9b4-e267aef16136.png)
